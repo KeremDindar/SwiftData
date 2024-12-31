@@ -1,12 +1,12 @@
 ## SwiftData
 SwiftData, kullanıcıların şirketlerin borç ve alacak bilgilerini takip etmelerini sağlayan bir uygulamadır. Uygulama, kullanıcıların borç ve alacakları eklemelerini, güncellemelerini ve takip etmelerini sağlar.
 
-## Özellikler
+## Özellikler
 * Şirket ekleyebilme
 * Şirketlere borç ve alacak ekleyebilme
 * Şirketlerin toplam borç ve alacaklarını hesaplama
 * Şirket ve borç/alacak bilgilerini görüntüleme
-## Kullanılan Teknolojiler
+## Kullanılan Teknolojiler
 * SwiftUI: Uygulama arayüzünü oluşturmak için kullanıldı.
 * SwiftData: Veritabanı işlemleri için kullanıldı.
 * Combine: Reaktif programlama için kullanıldı.
